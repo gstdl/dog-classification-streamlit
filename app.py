@@ -14,6 +14,6 @@ uploaded_file = st.file_uploader(
     "Upload your image here ...", type=["jpg", "jpeg", "png"]
 )
 if uploaded_file is not None:
-    image = Image.open(uploaded_file)
+    image = Image.open(uploaded_file).convert('RGB')
     run_app(image)
     st.image(uploaded_file, use_column_width=True)
