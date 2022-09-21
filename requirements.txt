@@ -1,7 +1,7 @@
 torchvision==0.6.0
 streamlit==1.11.1
 numpy==1.22.0
-torch==1.8.1
+torch==1.5.0
 opencv_python==4.5.1.48
 Pillow==9.0.1
 efficientnet-pytorch==0.6.3
