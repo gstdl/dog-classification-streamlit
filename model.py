@@ -2,7 +2,6 @@ import torch
 import json
 import cv2
 from torchvision import models, transforms
-from PIL import Image, ImageOps
 import numpy as np
 import streamlit as st
 
