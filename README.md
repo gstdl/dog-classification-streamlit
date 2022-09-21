@@ -10,4 +10,6 @@ pinned: false
 license: bsd
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+<!-- Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference -->
+
+Check out the app at https://huggingface.co/spaces/gstdl/dog_classifier
